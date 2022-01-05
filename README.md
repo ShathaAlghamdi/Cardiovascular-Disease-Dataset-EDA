@@ -42,7 +42,7 @@ To download the dataset [Click_here](https://www.kaggle.com/sulianova/cardiovasc
 
 ## Question:
     
-  The goal is to do exploratory data analysis (EDA) to answer these questions :
+  - The goal is to do exploratory data analysis (EDA) to answer these questions :
   
    1. What is the most gender is exposed to be Cardiovascular Disease that has? 
    <br>
