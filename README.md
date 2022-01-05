@@ -19,11 +19,13 @@ To download the dataset [Click_here](https://www.kaggle.com/sulianova/cardiovasc
  
  
   1. **Objective Feature** 
-     - Age | age | int (days)
-     - Height |  height | int (cm) 
-     - Weight |  weight | float (kg) 
-     - Gender |  gender | categorical 
-   
+
+| Feature name             | ShortCut      | Data type     | 
+| -------------            | ------------- | ------------- |
+|Age | age | int (days)|
+|Height |  height | int (cm) |
+|Weight |  weight | float (kg) |
+|Gender |  gender | categorical |
    
   2. **Examination Feature** 
     
@@ -35,11 +37,13 @@ To download the dataset [Click_here](https://www.kaggle.com/sulianova/cardiovasc
 |Glucose | gluc| int           | 1: normal, 2: above normal, 3: well above normal|
         
   3. **Subjective Feature**
-     - Smoking | smoke | binary
-	 - Alcohol intake  alco | binary 
-	 - Physical activity | Subjective Feature | active | binary 
-     - Presence or absence of cardiovascular disease | Target Variable | cardio | binary |
-
+   
+| Feature name             | ShortCut      | Data type     | Description  |
+| -------------            | ------------- | ------------- |------------- |
+| Smoking | smoke | binary|-|
+|Alcohol intake  |alco | binary|-|
+|Physical activity  | active | binary |-|
+|Presence or absence of cardiovascular disease | cardio | binary | Target Variable |
 ## Question:
     
   - The goal is to do exploratory data analysis (EDA) to answer these questions :
