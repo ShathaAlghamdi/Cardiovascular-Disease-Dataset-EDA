@@ -6,9 +6,7 @@ All the values in the dataset were collected at the time of medical examination 
 ### Kaggle.com :  
 To download the dataset [Click_here](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset)
 
-## Size of Data:
-- Number of rows: 17276 
-- Number of columns: 11
+
 
 ## Columns description:
   ### There are 3 types of input columns:
