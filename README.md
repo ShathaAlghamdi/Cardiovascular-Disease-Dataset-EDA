@@ -26,11 +26,13 @@ To download the dataset [Click_here](https://www.kaggle.com/sulianova/cardiovasc
    
    
   2. **Examination Feature** 
-     - Systolic blood pressure  | ap_hi | int 
-	 - Diastolic blood pressure | ap_lo | int 
-	 - Cholesterol | cholesterol | 1: normal, 2: above normal, 3: well above normal 
-	 - Glucose | gluc | 1: normal, 2: above normal, 3: well above normal 
-        
+    
+| Feature name             | ShortCut      | Data type     | Description  |
+| -------------            | ------------- | ------------- |------------- |
+| Systolic blood pressure  | ap_hi         | int           |-             |
+| Diastolic blood pressure | ap_lo         | int           |-             |
+|Cholesterol               | cholesterol   | int           | 1: normal, 2: above normal, 3: well above normal|
+|Glucose | gluc| int           | 1: normal, 2: above normal, 3: well above normal|
         
   3. **Subjective Feature**
      - Smoking | smoke | binary
