@@ -45,17 +45,17 @@ To download the dataset [Click_here](https://www.kaggle.com/sulianova/cardiovasc
   - The goal is to do exploratory data analysis (EDA) to answer these questions :
   
    1. What is the most gender is exposed to be Cardiovascular Disease that has? 
-   <br>
+  
    2. Is there a relationship between smoking and getting  Cardiovascular Disease?
-   <br>
+   
    3. Is there a relationship between age and getting Cardiovascular Disease?
-   <br>
+   
    4. what is the age that has the most patient number of Cardiovascular Disease?
-   <br>
+   
    5. How many Smokers and Non-Smokers do not have a Cardiovascular Disease?
-   <br>
+   
    6. How many Smokers and Non-Smokers have a Cardiovascular Disease? 
-   <br>
+   
    7. Is their a relationship between doing physical activity and not having a Cardiovascular Disease?
    <br>
    8. Is there a relationship between being overweight and having  Cardiovascular Disease? 
