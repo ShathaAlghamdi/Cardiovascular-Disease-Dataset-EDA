@@ -57,13 +57,13 @@ To download the dataset [Click_here](https://www.kaggle.com/sulianova/cardiovasc
    6. How many Smokers and Non-Smokers have a Cardiovascular Disease? 
    
    7. Is their a relationship between doing physical activity and not having a Cardiovascular Disease?
-   <br>
+   
    8. Is there a relationship between being overweight and having  Cardiovascular Disease? 
-   <br>
+   
    9. How many cholesterol patients have a Cardiovascular and at what level they are?
-   <br>
+   
    10. What is the cholesterol level  that has a large number of Cardiovascular Disease?
-    <br>
+    
    11. How many alcoholics are Cardiovascular Disease?
     
     
