@@ -65,12 +65,14 @@ To download the dataset [Click_here](https://www.kaggle.com/sulianova/cardiovasc
    10. What is the cholesterol level  that has a large number of Cardiovascular Disease?
     <br>
    11. How many alcoholics are Cardiovascular Disease?
-    <br>
+    
+    
 ## Tools:
 - Libraries: 
 pandas, numpy, matplotlib, geopandas, geopy, plotly_express
 - Softwares: 
 VSCode, Jupyter, GitHub
+
 ## MVP goals:
 - Answer all the questions.
 
